@@ -1,5 +1,7 @@
 go 1.21.5
 
-use "./2 crud"
+use ./2-crud
 
 use ./3-crud-db
+
+use ./4-gobank
